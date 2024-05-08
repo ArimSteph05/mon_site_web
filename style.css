@@ -1,6 +1,6 @@
 *{
     margin: 0;
-    padding: 0;
+    padding: 10px;
     box-sizing: border-box;
 }
 
@@ -10,3 +10,7 @@ background-color: darkgrey;
 font-weight: bold;
 font-size: 50px;
 }
+
+/* div,h1{
+ padding: 10px;
+} */
