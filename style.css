@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 
-.top-banner{
+#top-banner{
 text-align: center;
 background-color: darkgrey;
 font-weight: bold;
